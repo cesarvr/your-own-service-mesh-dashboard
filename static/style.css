@@ -1,0 +1,28 @@
+.cpu-title {
+    float: left;
+    margin-right: 10px;
+}
+
+.cpu-times {
+  font-size: small;
+  margin: 10px;
+  min-width: 100px;
+}
+
+.core-display {
+  font-size: smaller;
+  margin-bottom: 5px;
+}
+
+.memory {
+  font-size: small;
+  margin: 10px;
+  min-width: 100px;
+}
+
+.stats-section {
+  width: 261px;
+  height: 404px;
+  float: right;
+  margin-left: 20px;
+}
